@@ -29,5 +29,6 @@ Create abstract class Canine
     -research 2 properties and 2 actions that are common in Canines
         -implement them
 
-Create a concrete class named Wolf
+Create a concrete class +
+ Wolf
     -extend Canine and implement Scariness & Paw

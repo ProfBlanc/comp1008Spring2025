@@ -1,0 +1,19 @@
+Course              I
+CollegeCourse       I
+School              A
+College             C
+Restaurant          I
+Cafeteria           A or C
+Education           A
+Knowledge           A
+
+_______
+interface   abstract class  concrete class
+
+College extends School, implements Cafeteria, CollegeCourse
+
+School extends Education, implements Knowledge
+
+Cafeteria extends Restaurant
+
+CollegeCourse extends Course
